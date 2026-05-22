@@ -1,0 +1,5 @@
+PyQt5>=5.15.9
+pywin32>=306
+Pillow>=10.0
+pypinyin>=0.50
+keyboard>=0.13
