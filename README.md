@@ -22,6 +22,8 @@ Hello! I really love macOS's Launchpad, but I couldn't find a decent alternative
 
 I'm hoping some experienced developers can guide me. Please be gentle, guys!
 
+Usage: Ctrl+Space (check if occupied by other software)
+
 ---
 
 ## Core Playful Features
